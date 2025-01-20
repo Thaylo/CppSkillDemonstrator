@@ -11,6 +11,7 @@ private:
     
 public:
     CustomerSegment();
+    CustomerSegment(std::string);
     ~CustomerSegment();
 };
 
