@@ -2,26 +2,6 @@
 
 A portable **C++** library to showcase and speed up cross-platform development on Windows, GNU/Linux, and macOS. This repository demonstrates core C++ skills, including organizing a project with CMake, writing tests with Google Test, and managing a clean directory structure.
 
-## Table of Contents
-
-- [C++ Skill Demonstrator](#c-skill-demonstrator)
-  - [Table of Contents](#table-of-contents)
-  - [Setup](#setup)
-    - [General Setup Procedures](#general-setup-procedures)
-    - [Specific Setup Procedures by Operating System](#specific-setup-procedures-by-operating-system)
-      - [Linux](#linux)
-      - [Windows](#windows)
-      - [macOS](#macos)
-    - [Validating Installation](#validating-installation)
-  - [Building the Project](#building-the-project)
-    - [Running the Application](#running-the-application)
-    - [Running Tests](#running-tests)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Additional Notes](#additional-notes)
-
----
-
 ## Setup
 
 ### General Setup Procedures
